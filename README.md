@@ -13,4 +13,4 @@ If you want it on your personal phone...
 
 TODO: Allow code sharing for Web.
 
-<img src="https://raw.githubusercontent.com/tsun2019/React-Native-Blackjack/master/READMEIMAGES/IMG_2638.jpeg"  width="120" height="300">
+<img src="https://raw.githubusercontent.com/tsun2019/React-Native-Blackjack/master/READMEIMAGES/IMG_2638.jpeg"  width="200" height="350">
