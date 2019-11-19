@@ -12,6 +12,7 @@ If you want it on your personal phone...
 
 
 TODO: Allow code sharing for Web.
-|COL 1| COL 2|
+
+| col 1      | col 2      |
 |------------|-------------|
-|<img src="https://raw.githubusercontent.com/tsun2019/React-Native-Blackjack/master/READMEIMAGES/IMG_2638.jpeg"  width="250" height="400">||
+|<img src="https://raw.githubusercontent.com/tsun2019/React-Native-Blackjack/master/READMEIMAGES/IMG_2638.jpeg"  width="250" height="400">|<img src="https://raw.githubusercontent.com/tsun2019/React-Native-Blackjack/master/READMEIMAGES/IMG_2639.jpeg"  width="250" height="400">|
