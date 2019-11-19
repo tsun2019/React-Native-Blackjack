@@ -228,7 +228,7 @@ export default class Game extends Component {
     let status = "";
 
     while (this.handleScore(newHouseHand) < 17){
-      newHouseHand = newHouseHand.push(newDeck.pop());
+      newHouseHand.push(newDeck.pop());
 
     }
 
