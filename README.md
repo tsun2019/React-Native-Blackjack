@@ -12,3 +12,5 @@ If you want it on your personal phone...
 
 
 TODO: Allow code sharing for Web.
+
+![alt text](https://raw.githubusercontent.com/tsun2019/React-Native-Blackjack/master/READMEIMAGES/IMG_2638.jpeg)
