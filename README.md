@@ -11,7 +11,7 @@ If you want it on your personal phone...
 5. Follow instructions provided in terminal/command prompt for Expo to connect it to your phone.
 
 
-TODO: Allow code sharing for Web. Add double down. 
+TODO: Allow code sharing for Web. Add double down option. Style buttons further. 
 
 | Home Page      | Playing      | Instructions      |
 |------------|-------------|-------------|
